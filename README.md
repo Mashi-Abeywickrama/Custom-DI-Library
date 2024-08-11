@@ -20,5 +20,5 @@ Install the dependencies by running one of the following command
 	npm install
 Run the Application
 
-	npm run
+	npm start
   
